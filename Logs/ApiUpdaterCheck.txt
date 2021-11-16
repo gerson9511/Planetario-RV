@@ -1,0 +1,20 @@
+[api-updater (non-obsolete-error-filter)] 16/11/2021 1:24:12 p. m. : Starting D:/Disco D/Programas/Instaladores Software/6 SEM/PGM/Unity/2018.4.19f1/2020.3.15f2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 5199,6758ms
+moved types parse time: 324ms
+candidates parse time : 143ms
+C# parse time         : 3197ms
+candidates check time : 257ms
+console write time    : 29ms
+
+[api-updater (non-obsolete-error-filter)] 16/11/2021 2:50:34 p. m. : Starting D:/Disco D/Programas/Instaladores Software/6 SEM/PGM/Unity/2018.4.19f1/2020.3.15f2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 510,6828ms
+moved types parse time: 78ms
+candidates parse time : 1ms
+C# parse time         : 247ms
+candidates check time : 63ms
+console write time    : 0ms
+

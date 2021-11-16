@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Escenas/1-Planetario.unity
+    guid: 8a89b76c6a5cae847ae488bfd2e1cc4b
+  - enabled: 1
+    path: Assets/Escenas/2-Tierra.unity
+    guid: 8721fb969610b644f939e2688e13f188
+  - enabled: 1
+    path: Assets/Escenas/3-Luna.unity
+    guid: bb9df9e0db4d876469fad0e57e9371d3
+  - enabled: 1
+    path: Assets/Escenas/4-Marte.unity
+    guid: 739ea338262f8ff4cbe1c1f395a3164f
+  - enabled: 1
+    path: Assets/Escenas/4-Marte360.unity
+    guid: 08a6f835337b4364c99f17ed4b31d40d
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 90a17018b33ca6e4580b8c4a45dfa2ae, type: 2}
