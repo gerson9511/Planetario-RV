@@ -11,6 +11,9 @@ https://www.youtube.com/watch?v=1njwF57warI&t=229s
 Maquetado
 ![0](https://user-images.githubusercontent.com/45986551/143044719-c89344a3-76e2-40c8-97b8-f675be26496e.JPG)
 
+![1 9](https://user-images.githubusercontent.com/45986551/143045953-64e1be09-bfbe-4eb7-8cab-ee2d8921950c.JPG)
+
+![2](https://user-images.githubusercontent.com/45986551/143045902-2d6c9dc8-4bf1-437d-95da-14617a892bbf.JPG)
 
 ![1](https://user-images.githubusercontent.com/45986551/143044718-7a226c97-615a-4dde-a246-9b5bc9384c98.JPG)
 
@@ -21,6 +24,9 @@ Maquetado
 ![4 1](https://user-images.githubusercontent.com/45986551/143044806-68edf2ed-aab7-4cad-a037-b19d98501555.JPG)
 
 ![4 3](https://user-images.githubusercontent.com/45986551/143044822-770be8f0-a948-47ea-8d40-d4edaca79693.JPG)
+
+![5](https://user-images.githubusercontent.com/45986551/143045881-7266f11f-9ae2-4679-84f5-bafd2560ddfe.JPG)
+
 
 # Contactame
 - 
